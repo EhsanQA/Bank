@@ -1,1 +1,17 @@
-﻿
+A) CLASSES
+  
+  (Ekhtiarat kamel dast Hooman)
+
+B) FXML FILES
+  
+  1) Baraye har safhe ye proje, yek file fxml nyaz darim
+  
+  2) Button ha va injur chiz ha
+  
+  3) Baraye safhe moshtari va karmand va modir
+  
+C) CONTROLLER FILES
+  
+  1) Vasl kardan hameye Button ha be function ha 
+  
+
